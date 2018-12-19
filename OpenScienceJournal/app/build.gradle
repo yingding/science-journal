@@ -4,7 +4,7 @@ apply from: project(':whistlepunk_library').projectDir.absolutePath + '/version.
 
 android {
     compileSdkVersion 25
-    buildToolsVersion '26.0.1'
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "com.google.android.apps.forscience.whistlepunk.opensource"
